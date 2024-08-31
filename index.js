@@ -119,6 +119,110 @@ const songs = [
     cover:
       "tha.jpg",
   },
+  {
+    title: "Bairiya",
+    name: "Arijit singh",
+    source:
+      "bariya.mp3",
+    cover:
+      "bariy.jpg",
+  },
+  {
+    title: "Lo Maan Liiya",
+    name: "Arijit singh",
+    source:
+      "loman.mp3",
+    cover:
+      "loma.jpg",
+  },
+  {
+    title: "Lo Aayi Barsaat",
+    name: "Darshan Raval",
+    source:
+      "loaaye.mp3",
+    cover:
+      "loaaye.jpg",
+  },
+  {
+    title: "Piya Re",
+    name: "Darshan Raval",
+    source:
+      "piyare.mp3",
+    cover:
+      "piyare.jpg",
+  },
+  {
+    title: "Fakira",
+    name: "Sanam Puri",
+    source:
+      "faki.mp3",
+    cover:
+      "faki.jpg",
+  },
+  {
+    title: "Hawa Banke",
+    name: "Darshan Raval",
+    source:
+      "hawaban.mp3",
+    cover:
+      "hawab.jpg",
+  },
+  {
+    title: "Raat Ke Khayal",
+    name: "Zen Rival",
+    source:
+      "raat.mp3",
+    cover:
+      "raat.jpg",
+  },
+  {
+    title: "Bulleya",
+    name: "Arijit singh",
+    source:
+      "bulley.mp3",
+    cover:
+      "bule.jpg",
+  },
+  {
+    title: "Ae Dil Hai Muskil",
+    name: "Arijit singh",
+    source:
+      "aedi.mp3",
+    cover:
+      "aedi.jpg",
+  },
+  {
+    title: "Aasan Nahi Yahan",
+    name: "Arijit singh",
+    source:
+      "asannahi.mp3",
+    cover:
+      "asannhi.jpg",
+  },
+  {
+    title: "Baarishon Mein",
+    name: "Darshan Raval",
+    source:
+      "barishonme.mp3",
+    cover:
+      "barison.jpg",
+  },
+  {
+    title: "Bhool Jaa",
+    name: "Arijit singh",
+    source:
+      "bhoolja.mp3",
+    cover:
+      "bhool.jpg",
+  },
+  {
+    title: "Bhula Diya",
+    name: "Darshan Raval",
+    source:
+      "bhuladi.mp3",
+    cover:
+      "bhula.jpg",
+  },
 ];
 
 let currentSongIndex = 0;
