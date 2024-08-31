@@ -237,7 +237,7 @@ const songs = [
     source:
       "kyahua.mp3",
     cover:
-      "Kyahua.jpg",
+      "kyahua.jpg",
   },
 ];
 
