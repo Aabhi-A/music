@@ -223,6 +223,22 @@ const songs = [
     cover:
       "bhula.jpg",
   },
+  {
+    title: "Aur Iss Dil Mein",
+    name: "Sanam Puri",
+    source:
+      "auriss.mp3",
+    cover:
+      "auriss.jpg",
+  },
+  {
+    title: "Kya Hua Tera Wada",
+    name: "Sanam Puri",
+    source:
+      "kyahua.mp3",
+    cover:
+      "Kyahua.jpg",
+  },
 ];
 
 let currentSongIndex = 0;
