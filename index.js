@@ -243,7 +243,7 @@ const songs = [
     title: "Kya Hua Tera Wada",
     name: "Sanam Puri",
     source:
-      "Satranga x channa meerey.mp3",
+      "Satranga x Channa Mereya (LoFi Mix By @Knockwell) ANIMAL Arijit Singh Latest Hindi Love Songs.mp3",
     cover:
       "kyahua.jpg",
   },
