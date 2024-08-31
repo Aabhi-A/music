@@ -239,6 +239,14 @@ const songs = [
     cover:
       "kyahua.jpg",
   },
+  {
+    title: "Kya Hua Tera Wada",
+    name: "Sanam Puri",
+    source:
+      "Satranga x channa meerey.mp3",
+    cover:
+      "kyahua.jpg",
+  },
 ];
 
 let currentSongIndex = 0;
