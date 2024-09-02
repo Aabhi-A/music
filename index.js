@@ -239,6 +239,14 @@ const songs = [
     cover:
       "kyahua.jpg",
   },
+  {
+    title: "Dil Diyan Gallan",
+    name: "Artif Aslam"
+    source:
+      "dil.mp3",
+    cover:
+      "dil.jpg",
+  },
 ];
 
 let currentSongIndex = 0;
